@@ -1,7 +1,5 @@
 # Train station search application
 
----
-
 ## Flyway Migration
 ```
 mvn flyway:migration
